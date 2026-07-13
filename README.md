@@ -69,10 +69,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 July 2026 - To: 11 July 2026
+From: 05 July 2026 - To: 12 July 2026
 
-Python   9 hrs 23 mins         ███████████████████████▓░   94.68 %
-Other    16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+Python   6 hrs 36 mins         ███████████████████████▒░   92.71 %
+Other    16 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
 ```
 
 <!--END_SECTION:waka-->
